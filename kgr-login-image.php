@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Change Login Image
+ * Plugin Name: KGR Login Image
  * Plugin URI: https://github.com/constracti/kgr-login-image
  * Description: The login screen image is a link to your blog's Home, with the blog's Name as a title. Background is a randomly selected from your Media Library file which has its title set to 'kgr-login-image'.
  * Author: constracti
